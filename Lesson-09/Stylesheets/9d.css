@@ -1,0 +1,11 @@
+div {
+  border: solid;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  width: 220px;
+  background-color: rgb(28, 28, 28);
+ color: white;
+}
+.instruction{
+  font-size: 10px;
+}
